@@ -1,0 +1,24 @@
+{
+  "name": "alerts-pull-requests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabidzeKristine/alerts-pull-requests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabidzeKristine/alerts-pull-requests/issues"
+  },
+  "homepage": "https://github.com/tabidzeKristine/alerts-pull-requests#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1"
+  }
+}
